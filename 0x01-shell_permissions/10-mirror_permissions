@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod +x olleh_mode hello
+sudo chmod reference=olleh hello
