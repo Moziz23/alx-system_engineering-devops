@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --from=guillaume Betty hello
+chmod --from=guillaume betty hello
